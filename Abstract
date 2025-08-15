@@ -1,17 +1,2 @@
-Numerical modeling of groundwater using MODFLOW became a state-of-the-art method to understand groundwater flow and act in
-sustainable management of limited available groundwater for both quality and quantity. This study aims to evaluate the major
-aquifers of the Mirsharai-Sitakunda region using a GMS interface based on MODFLOW-NWT groundwater flow modeling software.
-Different aquifer piezometric head and precipitation data were obtained from Hydroinformatics and Flood Forecasting Circle,
-Bangladesh Water Development Board (BWDB). The geological model developed from geophysical and geological borelog data available
-in published literature is used to build the steady-state flow model. The boundary conditions are implemented to get practical
-results by applying real/field conditions obtained from local production well surveys and questionnaires to corroborate with the
-secondary data. A steady-state approach is applied to calibrate the model parameters, including the hydraulic conductivity and
-recharge rate, using the observed data collected from BWDB. For model performance evaluation, mean error (ME), mean absolute
-error (MAE), and root mean square error (RMSE) were calculated. The initial ME, MAE and RMSE of the steady-state model was
-calculated -12.38, 12.38 and 12.48 respectively which represents a significant deviation between the computed and observed
-hydraulic head showing subpar condition. After PEST calibration the ME, MAE and RMSE of the model was calculated -1.79, 1.79,
-2.50 repectively showing an optimum condition representing a satisfactory performance and well in agreement with the observed
-data. However, further calibration and converting the steady-state model into a transient model is necessary for scenario
-simulation and further study, such as abstraction, recharge, land use, and climate change scenarios. In addition, the results
-can assist water authorities in providing accurate and sustainable planning and management of groundwater resources in the
-Mirsharai-Sitakunda region.
+>>>>> The work is in progress <<<<<
+>>>>>>>>>>> Stay Tuned <<<<<<<<<<<
