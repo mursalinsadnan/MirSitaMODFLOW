@@ -1,4 +1,4 @@
-***Groundwater Sustainability under Industrial Expansion and Settlement Growth: A Modeling Study of Bangladesh’s Largest Economic Zone***
+***Groundwater Sustainability under Industrial Expansion and Settlement Growth: A Modeling Study of South Asia’s Largest Economic Zone***
 
 This repository documents the methodology and progress of my groundwater modeling study, which focuses on the largest industrial economic zone in South Asia, located in coastal Bangladesh. The rapid development of this zone is expected to drive significant industrialization, increased settlement, and rising groundwater demand, creating a high risk of groundwater depletion and long term sustainability challenges.
 
