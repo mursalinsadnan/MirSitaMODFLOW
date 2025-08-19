@@ -10,8 +10,8 @@ Transient Model is currently under development. This phase will expand the study
 The study integrates multiple datasets including HydroBASINS, HydroSHEDS, CHIRPS 2.0, Bangladesh Water Development Board (BWDB), Bangladesh Bureau of Statistics (BBS), and published lithological and geological records.
 
 **Repository Content**
-/n Detailed methodology (steady-state completed, transient section under development).
-/n Figures, tables, and calibration outputs (to be updated incrementally).
+Detailed methodology (steady-state completed, transient section under development).
+Figures, tables, and calibration outputs (to be updated incrementally).
 
 **Note to Reviewers**
 This repository represents an ongoing research process. The steady state model is complete, but the result is pending, while the transient phase is under development to simulate the impacts of industrial and settlement-driven groundwater use. The project will be refined and expanded as additional results are generated.
